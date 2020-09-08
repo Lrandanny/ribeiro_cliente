@@ -24,23 +24,23 @@ a.blog-link,
 .pricing-item .number-price span:last-child,
 ul.slimmenu li a.mPS2id-highlight,
 ul.slimmenu li a.cur-menu-item{
-	color:#16a085;
+	color:#2a0b09;
 }
 
 ul.slimmenu li a:hover{
-	border-bottom:1px solid #16a085;
+	border-bottom:1px solid #2a0b09;
 }
 
 .hero-top p:after,
 .header-text p:after,
 .cd-item .portfolio-box .line,
 h4.features:after{
-	border-top:1px solid #16a085;
-	border-bottom:1px solid #16a085;
+	border-top:1px solid #2a0b09;
+	border-bottom:1px solid #2a0b09;
 }
 .hero-top .link-top:hover{
-	background:#16a085;	
-	border:1px solid #16a085;
+	background:#2a0b09;	
+	border:1px solid #2a0b09;
 }
 .scroll-to-top:hover,
 .btn-projects,
@@ -51,7 +51,7 @@ h4.features:after{
 .pro-bar,
 .smk_accordion .accordion_in .acc_head:hover,
 .smk_accordion .accordion_in.acc_active > .acc_head {
-	background-color:#16a085;
+	background-color:#2a0b09;
 }
 .color-background,
 #bar,
@@ -64,44 +64,44 @@ h4.features:after{
 .link-tag a:hover,
 .block:hover,
 .pricing-item a.price-link{
-	background: #16a085;
+	background: #2a0b09;
 }
 ::selection {
-	background: #16a085;
+	background: #2a0b09;
 	}
 ::-moz-selection {
-	background: #16a085;
+	background: #2a0b09;
 }
 #ajax-form textarea:focus,
 #ajax-form input:focus,
 #ajax-form textarea:active,
 #ajax-form input:active {	
-	border-bottom:1px solid #16a085;
+	border-bottom:1px solid #2a0b09;
 }
 #ajax-form button:hover {
-	background:#16a085;
+	background:#2a0b09;
 }
 .post-sidebar input:-ms-input-placeholder  {
-	color:#16a085;
+	color:#2a0b09;
 }
 .post-sidebar input::-moz-placeholder  {
-	color:#16a085;
+	color:#2a0b09;
 }
 .post-sidebar input:-moz-placeholder  {
-	color:#16a085;
+	color:#2a0b09;
 }
 .post-sidebar input::-webkit-input-placeholder  {
-	color:#16a085;
+	color:#2a0b09;
 }
 .pricing-item:hover{
-	border-color:#16a085;
+	border-color:#2a0b09;
 }
 .pricing-item.popular{
-	border-color:#16a085;
+	border-color:#2a0b09;
 }
 
 .gu-box{
-	border-left:2px solid #16a085;
+	border-left:2px solid #2a0b09;
 }
 
 
